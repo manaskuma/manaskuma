@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manas Kumar
 - 👀 I’m interested in cloud computing and scripting.
-- 🌱 I’m currently learning Powershell and Azure
+- 🌱 I’m currently learning Azure, Powershell and DevOps.
 - 💞️ I’m looking to collaborate on new learnings
 - 📫 manaskr@hotmail.com
 
